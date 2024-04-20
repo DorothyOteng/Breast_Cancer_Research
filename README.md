@@ -51,3 +51,5 @@ Thanks to Howard University, Mastercard Foundation for funding, Dr. Amy Quarkume
 
 **Author: Dorothy Oteng**.
 **CoAuthors: Dr. Amy Quarkume Yeboah & Dr. Edmund Ameyaw**
+
+![Model Results](images/COMPARATIVE-NEW.png)
